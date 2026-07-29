@@ -20,6 +20,7 @@
   <img src="https://hits.sh/github.com/msrofficial/MiruDL-App.svg?label=Visitors&color=informational" alt="Visitors">
 </p>
 
+<p align="center"> <b>If you find this project useful, please consider giving this repository a star (⭐).</b></p>
 ---
 
 ## What is MiruDL?
