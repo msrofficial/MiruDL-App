@@ -72,7 +72,7 @@ No ads. No accounts. No tracking. Just a clean way to get your favorite shows on
 ## Download
 
 <p align="center">
-  <a href="https://github.com/msrofficial/MiruDL-App/releases/latest">
+  <a href="https://github.com/msrofficial/MiruDL-App/releases/download/1.0.0/MiruDL-Anime-Downloader-1.0.0.apk">
     <img src="https://img.shields.io/badge/Download%20APK-Download%20Latest-1a8a1a?style=for-the-badge&logo=android&logoColor=white&labelColor=2ea043" alt="Download Latest APK">
   </a>
   <br>
